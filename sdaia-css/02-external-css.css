@@ -1,0 +1,14 @@
+#p3 {
+    color: crimson;
+    font-family: "Britannic Bold";
+}
+
+#button:hover {
+    background-color: darksalmon;
+    transition: 0.7s;
+}
+
+#button{
+    width: 100px;
+    height:25px;
+}
